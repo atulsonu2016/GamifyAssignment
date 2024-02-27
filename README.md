@@ -28,7 +28,7 @@ The project revolves around providing users with a curated list of games categor
   |  |  | - GameDetail/
             
 ## Contact
-For questions or feedback, contact me at [+91 7000070798, atulsonu2016@gmail.com](atulsonu2016@gmail.com).
+For questions or feedback, contact me at [atulsonu2016@gmail.com](atulsonu2016@gmail.com).
 
 ## Acknowledgements
 
